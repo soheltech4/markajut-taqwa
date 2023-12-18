@@ -1,8 +1,10 @@
 import React from 'react';
+import HeadBanner from './HeadBanner';
 
 const Header = () => {
     return (
         <>
+        <HeadBanner></HeadBanner>
         <div>
             
         </div>
